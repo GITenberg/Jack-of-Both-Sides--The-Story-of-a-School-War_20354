@@ -1,0 +1,31 @@
+_repo: Jack-of-Both-Sides--The-Story-of-a-School-War_20354
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pearse, Susan Beatrice
+    alias: Pearse, S. B. (Susan Beatrice)
+    gutenberg_agent_id: '25848'
+    url: http://www.gutenberg.org/2009/agents/25848
+covers:
+- cover_type: archival
+  image_path: 20354-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coombe, Florence
+    gutenberg_agent_id: '9244'
+    url: http://www.gutenberg.org/2009/agents/9244
+description: ''
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2007-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PZ'
+title: 'Jack of Both Sides: The Story of a School War'
+url: http://www.gutenberg.org/ebooks/20354
